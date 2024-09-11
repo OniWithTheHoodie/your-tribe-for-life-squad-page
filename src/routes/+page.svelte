@@ -84,5 +84,7 @@ article:nth-child(5) {
     grid-column:3 / 4;
     grid-row: 3;
 }
+/* @media (){
 
+} */
 </style>
