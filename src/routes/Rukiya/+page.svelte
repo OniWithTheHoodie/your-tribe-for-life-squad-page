@@ -13,6 +13,10 @@
 </section>
 
 <style>
+    :root {
+        --light-background-color: #66E5BF;
+
+    }
     a {
         text-decoration: none;
         color: #66E5BF;
