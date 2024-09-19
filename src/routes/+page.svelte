@@ -7,7 +7,7 @@
       'Rukiya': '/Rukiya',
       'Akiko': '/Akiko',
       'Zainab': '/Zainab',
-      'Lesley': '/Lesley'
+      'lesley': '/Lesley'
     };
     return personRoutes[person.name] || '/';
   }
@@ -78,13 +78,13 @@
     flex-direction: column;
     align-items: center;
     border: 1px solid var(--color-main-text);
-    width: 500px;
+    width: 460px;
     border-radius: 1em;
   }
 
   article {
     line-height: 1.2;
-    width: 450px;
+    width: 430px;
   }
 
   h1 {
@@ -116,7 +116,7 @@
     font-family: "Nerko One", cursive;
     font-weight: bold;
     font-style: normal;
-    width: 450px;
+    width: 430px;
     border: 1px var(--color-main-text) solid;
   }
 
@@ -136,7 +136,7 @@
   }
 
   footer {
-    width: 450px;
+    width: 430px;
   }
 
   @media (min-width: 48em) {
