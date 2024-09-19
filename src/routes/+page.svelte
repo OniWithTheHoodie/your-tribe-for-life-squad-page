@@ -78,13 +78,14 @@
     flex-direction: column;
     align-items: center;
     border: 1px solid var(--color-main-text);
-    width: 460px;
+    width: 420px;
+    height: 805px;
     border-radius: 1em;
   }
 
   article {
     line-height: 1.2;
-    width: 430px;
+    width: 400px;
   }
 
   h1 {
@@ -116,7 +117,7 @@
     font-family: "Nerko One", cursive;
     font-weight: bold;
     font-style: normal;
-    width: 430px;
+    width: 400px;
     border: 1px var(--color-main-text) solid;
   }
 
@@ -136,7 +137,7 @@
   }
 
   footer {
-    width: 430px;
+    width: 400px;
   }
 
   @media (min-width: 48em) {
