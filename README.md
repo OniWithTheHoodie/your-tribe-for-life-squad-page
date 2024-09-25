@@ -1,7 +1,8 @@
 
 # Your Tribe For Life Squadpage
 
-<img width="500" alt="Screenshot 2024-09-18 at 17 40 31" src="https://github.com/user-attachments/assets/09f9e164-fbd1-4e83-89b2-3644b01c1f74">
+![image](https://github.com/user-attachments/assets/992f7172-3df6-4f9a-9311-5735b7dc9a22)
+
 
 Ontwerp en maak met een team een overzicht van jouw tribe met alle online visitekaartjes, op basis van een CMS en een framework. Wij hebben een website gemaakt waarbij je in een grid de leden van ons team kan bekijken. Door op een van deze foto's te klikken kom je op de detailpagina. Op de detailpagina staat er ook een url van hun visitekaartje. 
 
