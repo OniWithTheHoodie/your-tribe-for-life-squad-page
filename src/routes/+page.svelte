@@ -78,7 +78,7 @@
     flex-direction: column;
     align-items: center;
     border: 1px solid var(--color-main-text);
-    width: 420px;
+    width: 450px;
     height: 805px;
     border-radius: 1em;
   }
